@@ -115,5 +115,4 @@ If you face issues, feel free to create an Issue or contact the developer.
 ## 🎉 Enjoy Cricklytics-360!
 
 
-## 📁 Project Structure
 
