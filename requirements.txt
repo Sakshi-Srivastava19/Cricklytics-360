@@ -1,0 +1,18 @@
+pandas
+numpy
+scikit-learn
+xgboost
+streamlit
+plotly
+matplotlib
+opencv-python
+tensorflow
+tensorflow-hub
+pillow
+nltk
+transformers
+flask    # optional
+joblib
+shap
+openai 
+python-dotenv
