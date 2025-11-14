@@ -1,4 +1,4 @@
-# 🏏 Cricklytics-360  
+# 🏏 Cricklytics-360  by Sakshi Srivastava
 ### AI-Powered IPL Analytics, Prediction & Insights Dashboard
 
 Cricklytics-360 is a Streamlit-based web application that predicts IPL match outcomes, compares ML models, displays cricket insights, and includes an interactive AI chatbot assistant powered by OpenAI.
